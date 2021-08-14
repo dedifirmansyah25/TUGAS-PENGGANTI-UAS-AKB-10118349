@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "294957425467",
+    "firebase_url": "https://wisata-kuliner-5c771-default-rtdb.firebaseio.com",
+    "project_id": "wisata-kuliner-5c771",
+    "storage_bucket": "wisata-kuliner-5c771.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294957425467:android:9aed51e3d72c83aecd8d1e",
+        "android_client_info": {
+          "package_name": "com.example.a10118349_uas_akb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294957425467-fq2v1641ehv5rllfq7te8t1q363ddk13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs9ki78QhnX5ka2fETB8uIkXJdmKuMp8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294957425467-fq2v1641ehv5rllfq7te8t1q363ddk13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294957425467:android:2f630a5d3957262ecd8d1e",
+        "android_client_info": {
+          "package_name": "com.example.a10118349_uas_akb2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294957425467-fq2v1641ehv5rllfq7te8t1q363ddk13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs9ki78QhnX5ka2fETB8uIkXJdmKuMp8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294957425467-fq2v1641ehv5rllfq7te8t1q363ddk13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

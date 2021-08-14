@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.a10118349_uas_akb.member.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="com.example.a10118349_uas_akb.member.ui.profile.ProfileFragment"
+        android:label="@string/menu_profile"
+        tools:layout="@layout/fragment_profile" />
+
+    <fragment
+        android:id="@+id/nav_infobdg"
+        android:name="com.example.a10118349_uas_akb.member.ui.infobdg.InfoBdg"
+        android:label="@string/menu_infobdg"
+        tools:layout="@layout/activity_infobdg" />
+
+    <fragment
+        android:id="@+id/nav_infoapk"
+        android:name="com.example.a10118349_uas_akb.member.ui.infobdg.InfoBdg"
+        android:label="@string/menu_infoapk"
+        tools:layout="@layout/fragment_infoapk" />
+
+
+    <activity
+        android:id="@+id/dasbordActivity"
+        android:name="com.example.a10118349_uas_akb.dasbord.DasbordActivity"
+        android:label="activity_dasbord"
+        tools:layout="@layout/activity_dasbord" />
+</navigation>
